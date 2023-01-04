@@ -24,7 +24,7 @@ module.exports = {
       'error',
       {
         arrays: 'only-multiline',
-        objects: 'always',
+        objects: 'only-multiline',
         imports: 'never',
         exports: 'never',
         functions: 'never',
